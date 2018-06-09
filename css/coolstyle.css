@@ -1,0 +1,61 @@
+
+body {
+	font-family: arial, verdana, sans-serif;
+	font-size: 150%;
+}
+#slider {
+	background-color: red;
+}
+#slider h1 {
+	color: black;
+}
+#box {
+	border-style: ridge;
+	border-width: 0px 2px 2px 2px;
+}
+#sch {
+	height: 250px;
+}
+#sch img {
+	margin-top: 25px;
+}
+#words {
+	padding-left: 30px;
+}
+#words p {
+	font-weight: bolder;
+	font-size: 1.3em;
+	margin-bottom: 25px;
+}
+#words a {
+	color: #0000cc;
+}
+#top {
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #196719/*darkolivegreen*/;
+}
+#news {
+	height: 250px;
+}
+#info {
+	height: 250px;
+}
+#info img {
+	padding-top: 25px;
+}
+#res {
+	font-weight: bold;
+}
+#adm, #res {
+	padding-left: 20px;
+}
+#adm a, #res a {
+	color: #0000cc;
+}
+#bacim {
+	background-image: url('background.jpg');
+} 
+p {
+	color: blue;
+}
