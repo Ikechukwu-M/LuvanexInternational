@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1>WELCOME TO LUVANEX INTERNATIONAL</h1>
-	<p>We build your dream </p>
+	<p>Building your dreams to reality</p>
 
 </body>
 </html>
